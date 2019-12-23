@@ -45,3 +45,38 @@ body {
   width : 60%;
   transform: rotate(25deg);
 }
+
+.sub-heading {
+  font-family: "Montserrat";
+  font-weight: 700;
+  font-size: 1.5rem;
+}
+
+/* icon-styling */
+
+  .icon-style {
+    color: #ef8172;
+    margin-bottom: 1.5rem;
+  }
+
+  .t-ali {
+    text-align: center;
+    padding: 4%;
+  }
+
+  .para {
+    color : #8f8f8f;
+    font-family: "Ubuntu";
+    font-size: 1rem;
+    font-weight: 400;
+  }
+
+  .icon-style:hover {
+    color: #ff4c68;
+  }
+
+/* features-section */
+
+#features {
+  padding: 7% 15%;
+}
