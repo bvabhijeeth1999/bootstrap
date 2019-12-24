@@ -1,5 +1,5 @@
 #title {
-  background-color: #ff4c68;
+  background-color: #ef8172;
   color: white;
 }
 
@@ -79,4 +79,29 @@ body {
 
 #features {
   padding: 7% 15%;
+}
+
+
+/* testimonials section */
+
+#testimonials {
+  text-align: center;
+  background-color: #ef8172;
+  color: #fff;
+}
+
+.hh2 {
+  font-family: "Montserrat";
+  font-weight: 700;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.testimonial-image {
+  width: 8rem;
+  border-radius: 50%;
+}
+
+.padd {
+  padding : 7% 15%;
 }
